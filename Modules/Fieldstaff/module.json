@@ -1,0 +1,13 @@
+{
+    "name": "Fieldstaff",
+    "alias": "fieldstaff",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Fieldstaff\\Providers\\FieldstaffServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

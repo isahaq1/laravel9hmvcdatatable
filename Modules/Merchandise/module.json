@@ -1,0 +1,13 @@
+{
+    "name": "Merchandise",
+    "alias": "merchandise",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Merchandise\\Providers\\MerchandiseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

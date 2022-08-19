@@ -1,0 +1,13 @@
+{
+    "name": "Brif",
+    "alias": "brif",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Brif\\Providers\\BrifServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
